@@ -1,0 +1,10 @@
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\obj\Debug\Analog_clock.csprojResolveAssemblyReference.cache
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\obj\Debug\Analog_clock.Form1.resources
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\obj\Debug\Analog_clock.Properties.Resources.resources
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\obj\Debug\Analog_clock.csproj.GenerateResource.Cache
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\obj\Debug\Analog_clock.csproj.CoreCompileInputs.cache
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\bin\Debug\Analog_clock.exe.config
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\bin\Debug\Analog_clock.exe
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\bin\Debug\Analog_clock.pdb
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\obj\Debug\Analog_clock.exe
+C:\Users\M.S.Prasad\source\repos\Analog_clock\Analog_clock\obj\Debug\Analog_clock.pdb
